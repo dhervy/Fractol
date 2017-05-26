@@ -6,7 +6,7 @@ Fractol est un rendu de fractal
 
 ## Compiling
 
-`fractol` et compiler avec `Minilibx` et compatible uniquement avec Mac.</br>
+`fractol` est compilé avec `Minilibx` et compatible uniquement avec Mac.</br>
 executer `make`, un exécutable nommé `fractol` devrait compiler directement.
 
 ## Usage

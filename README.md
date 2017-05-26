@@ -6,8 +6,8 @@ Fractol est un rendu de fractal
 
 ## Compiling
 
-`fractol` est compilé avec `Minilibx` et compatible uniquement avec Mac.</br>
-executer `make`, un exécutable nommé `fractol` devrait compiler directement.
+`fractol` est compilé avec `Minilibx` et est compatible uniquement avec Mac.</br>
+Exécuter `make`, un exécutable nommé `ft_select` devrait être compilé directement.
 
 ## Usage
 

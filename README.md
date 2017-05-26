@@ -27,4 +27,3 @@ Exemple:
 * `perp_celtic`
 * `burning_ship`
 * `perp_burning_ship`
-hvj

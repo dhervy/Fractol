@@ -1,6 +1,6 @@
 # Fractol
 
-![screenshot](/sreens/screen.png?raw=ture)
+![screenshot](/screens/screen.png?raw=ture)
 
 Fractol est un rendu de fractal
 
